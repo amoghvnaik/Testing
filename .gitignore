@@ -1,5 +1,5 @@
 /venv/
-/.pytest_cache/*
+/.pytest_cache/
 /python_exercises/__init__.py
 /python_exercises/__pycache__/
 /python_exercises/.pytest_cache__/
